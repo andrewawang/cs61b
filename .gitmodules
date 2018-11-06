@@ -1,0 +1,12 @@
+[submodule "cs61bGitlet"]
+	path = cs61bGitlet
+	url = https://github.com/andrewawang/cs61bGitlet
+[submodule "cs61bQirkat"]
+	path = cs61bQirkat
+	url = https://github.com/andrewawang/cs61bQirkat
+[submodule "cs61bSQL"]
+	path = cs61bSQL
+	url = https://github.com/andrewawang/cs61bSQL
+[submodule "cs61b2048"]
+	path = cs61b2048
+	url = https://github.com/andrewawang/cs61b2048
